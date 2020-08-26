@@ -1,3 +1,3 @@
 # EthicsCovid
 
-This is a short essay of what i thought about Technology ethics during the coronavirus pandemic.
+A short essay of ethics i thought about in relation to technological device usage during the coronavirus pandemic.
